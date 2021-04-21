@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GiocoTombola.FormTombola">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQAAACAAABhAoQSIAAgCADBIAACCACAAAAUAgAA=</HashCode>
+      <FileName>FormTombola.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_tombola" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GeneratoreCasuale.NRRandom">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAABAAABAABAAAEAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>NRRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiocoTombola.Tombola">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JBDAAAAAAAAAUAAAAAQAABAAAAEQAAAAAAAAABEAAAA=</HashCode>
+      <FileName>Tombola.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_gc" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
